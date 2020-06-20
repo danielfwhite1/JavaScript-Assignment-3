@@ -1,1 +1,1 @@
-# Arrays and Functions practice
+# Arrays and Functions
