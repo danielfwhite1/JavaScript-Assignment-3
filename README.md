@@ -1,1 +1,1 @@
-# JavaScript-Assignment-3
+# Arrays and Functions practice
